@@ -10,8 +10,8 @@ import (
 )
 
 const (
-	SpotifyClientId     = "881caeb8c14c4f51883a8860924a1708"
-	SpotifyClientSecret = "2f6c42ba4a3c4f98b1b06faef47b7d73"
+	SpotifyClientId     = "insert"
+	SpotifyClientSecret = "insert"
 	RedirectUri         = "http://localhost:3000/callback"
 )
 
